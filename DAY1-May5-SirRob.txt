@@ -646,14 +646,14 @@ conf t
    name 4272
 !
   voice register pool 1
-    id mac ____.____.____
+    id mac 405e.f6a2.8658
     number 1 dn 1
     dtmf-relay sip-notify
     username 4271 password 4271
     codec g711ulaw
 !
   voice register pool 2
-    id mac ____.____.____
+    id mac 405e.f6a2.8658
     number 1 dn 2
     dtmf-relay sip-notify
     username 4272 password 4272
